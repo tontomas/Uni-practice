@@ -4,7 +4,7 @@ Proyectitos de práctica para mis clases de Ciencias de la Computación.
 
 ## 🌱 Sobre este repositorio
 
-Aquí voy guardando los ejercicios que hago mientras aprendo programación en la universidad. Por ahora todo es básico, pero la idea es ir subiendo la dificultad conforme avance en el semestre.
+Aquí voy guardando los ejercicios que hago mientras aprendo programación en la universidad.
 
 ## 🚀 Primer ejercicio
 
