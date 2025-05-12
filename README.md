@@ -1,6 +1,4 @@
 # Uni-practice
-Proyectitos de práctica para mis clases
-# Uni-practice
 
 Proyectitos de práctica para mis clases de Ciencias de la Computación.
 
